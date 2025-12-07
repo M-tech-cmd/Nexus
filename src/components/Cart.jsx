@@ -4,7 +4,8 @@ import { AiOutlinePlus, AiOutlineMinus } from 'react-icons/ai';
 
 import { useStateContext } from '../contexts/ContextProvider';
 import { cartData } from '../data/dummy';
-import Button from './Button';
+// eslint-disable-next-line import/no-cycle
+import { Button } from '.';
 
 const Cart = () => {
   const { currentColor } = useStateContext();
