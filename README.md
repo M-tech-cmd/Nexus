@@ -251,7 +251,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Support
 
-For support, kimaniemma20.com or open an issue on GitHub.
+For support, kimaniemma20@gmail.com or open an issue on GitHub.
 
 ## 🗺️ Roadmap
 
