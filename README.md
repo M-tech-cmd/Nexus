@@ -240,7 +240,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Manuel**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: (https://github.com/M-tech-cmd)
 
 ## 🙏 Acknowledgments
 
@@ -251,7 +251,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue on GitHub.
+For support, kimaniemma20.com or open an issue on GitHub.
 
 ## 🗺️ Roadmap
 
